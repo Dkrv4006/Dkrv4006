@@ -1,4 +1,21 @@
 # Seja bem vindo ou meu githup 👋
+<img src="https://user-images.githubusercontent.com/92266495/191352666-f1351a72-044d-4f1b-bb6b-f58aca977e99.gif" width="400" height="400" align=right>
+
+
+Sou um apaixonado por PROGRAMAÇÃO!!! <br>
+Já estudo a 1 ano o desenvolvimento WEB<br>
+eu estudo.<br>
+<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+-JAVASCRIPT<br>
+ <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+-TYPESCRIPT<br>
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+-NODEJS<br>
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+-REACT<br>
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-plain.svg">
+-SQL<br>
+
 
 <!--
 **Dkrv4006/Dkrv4006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +31,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://user-images.githubusercontent.com/92266495/191352666-f1351a72-044d-4f1b-bb6b-f58aca977e99.gif" align=right>
+
 
 ## Daniel_kennedy
 
