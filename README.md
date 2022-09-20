@@ -54,9 +54,12 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dkrv4006&theme=algolia&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats)
+     
   
-  ![Snake animation](https://github.com/Dkrv4006/Dkrv4006/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Dkrv4006/Dkrv4006/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/dkrv4006/dkrv4006/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
