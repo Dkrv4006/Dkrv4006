@@ -1,4 +1,4 @@
-### Hi there 👋
+# Seja bem vindo ou meu githup 👋
 
 <!--
 **Dkrv4006/Dkrv4006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://user-images.githubusercontent.com/92266495/191352666-f1351a72-044d-4f1b-bb6b-f58aca977e99.gif" align=right>
 
 ## Daniel_kennedy
 
