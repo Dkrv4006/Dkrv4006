@@ -2,12 +2,13 @@
 <img src="https://user-images.githubusercontent.com/92266495/191352666-f1351a72-044d-4f1b-bb6b-f58aca977e99.gif" width="400" height="400" align=right>
 
 
-Sou um apaixonado por PROGRAMAÇÃO!!! <br>
-Já estudo a 1 ano o desenvolvimento WEB<br>
+* ❤ Apaixonado por PROGRAMAÇÃO <br>
+* 👨‍🎓 Cusando análise e desenvolvimento de sistemas.<br>
+* 📚 Estudo desenvolvimento WEB<br>
 tenho projetos como essas linguagem.<br>
 
 
-
+<div>
 <img align="center" alt="Rafa-Js"
      height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 -JAVASCRIPT<br>
@@ -20,25 +21,9 @@ tenho projetos como essas linguagem.<br>
 -REACT<br>
 <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 -SQL<br>
+</div>     
 
-
-
-
-<!--
-**Dkrv4006/Dkrv4006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+ <img src='-239120?style=for-the-badge&logo=html5&logoColor=white'></img>
 
 ## Daniel_kennedy
 
@@ -56,7 +41,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dkrv4006&theme=algolia&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats)
-     
+     <td><img height="200em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkrv4006&show_icons=true&theme=algolia&count_private=true" /></td>
   
   ![Snake animation](https://github.com/Dkrv4006/Dkrv4006/blob/output/github-contribution-grid-snake.gif)
   ![snake gif](https://github.com/dkrv4006/dkrv4006/blob/output/github-contribution-grid-snake.gif)
