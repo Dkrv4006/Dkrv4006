@@ -4,10 +4,14 @@
 
 Sou um apaixonado por PROGRAMAÇÃO!!! <br>
 Já estudo a 1 ano o desenvolvimento WEB<br>
-eu estudo.<br>
+tenho projetos como essas linguagem.<br>
 
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
--JAVASCRIPT<br><img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-TYPESCRIPT<br>
+
+
+<img align="center" alt="Rafa-Js"
+     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+-JAVASCRIPT<br>
+<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">-TYPESCRIPT<br>
 <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 -NODEJS<br>
 <img  align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" >
