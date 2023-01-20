@@ -4,7 +4,7 @@
 #### * 👨‍🎓 Cusando cibersegurança.<br>
 #### * 📚 Estudo desenvolvimento WEB<br>
 
-## Rede social && Contatos 📱 
+## Rede social & Contatos 📱 
 <br>
 
 [![Blog](https://img.shields.io/website?label=Meu_portifolio&style=for-the-badge&url=https://dkrvportifolio.netlify.app/)](https://dkrvportifolio.netlify.app/)
@@ -15,7 +15,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://twitch.tv/)
 
 
-## Tecnologia que utiliso 🛠
+## Tecnologia que utilizo ⚙️
 <br>
 
 ### Front-end 🖥
@@ -28,24 +28,20 @@
     <img src="https://skillicons.dev/icons?i=ts,github,docker,prisma,py,nodejs,mysql,express,aws,postgres" />
 </a>
 
-### Utils
+### Utils 🛠
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,linux,vite,bash" />
 </a>
 
-## Daniel_kennedy
+## streak 🚀
 
-<div align="center">
-  <a href="https://github.com/Dkrv4006">
-  <img width="390em" src="https://github-readme-stats.vercel.app/api?username=Dkrv4006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkrv4006&layout=compact&langs_count=7&theme=algolia"/>
-</div>
-  <div align="center"><br>
+<div display="flex" width="100%">
+    
+<a href="https://github.com/Dkrv4006">
+    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dkrv4006&theme=algolia&hide_border=verdadeiro&locale=pt-br=)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkrv4006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dkrv4006&theme=algolia&hide_border=verdadeiro&locale=pt-br)](https://git.io/streak-stats)
-![Snake animation](https://github.com/Dkrv4006/Dkrv4006/blob/output/github-contribution-grid-snake.gif)
-![snake gif](https://github.com/dkrv4006/dkrv4006/blob/output/github-contribution-grid-snake.gif)
+<img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkrv4006&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-
-
