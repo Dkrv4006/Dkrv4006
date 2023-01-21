@@ -41,7 +41,7 @@
     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dkrv4006&theme=algolia&hide_border=verdadeiro&locale=pt-br=)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dkrv4006&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+
  
-<img width="400rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dkrv4006&layout=compact&langs_count=7&theme=algolia"/>
 </div>
+
