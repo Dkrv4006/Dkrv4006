@@ -20,7 +20,7 @@
 
 ### Front-end 🖥
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,css,html,bootstrap,materialui,styledcomponents,sass,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=js,react,vue,css,html,bootstrap,materialui,styledcomponents,sass,tailwind,ts" />
 </a>
 
 ### Back-end 🗄
